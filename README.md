@@ -36,10 +36,32 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" **alt="Android" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" **alt="Arduino" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain-wordmark.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="40" height="40"/>
 </div>
   
 
