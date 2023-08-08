@@ -19,6 +19,9 @@
 
 ### :man_technologist: About Me :
 
+Hacker of things, researcher of stuff, coffee nerd 🧟☕
+
+Research & Development Lead (STA Global) and Principal Security Consultant @CyberCX
 
 ---
 
