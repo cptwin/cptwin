@@ -27,15 +27,19 @@ Research & Development Lead (STA Global) and Principal Security Consultant @Cybe
 
 ### :writing_hand: Articles and Media :
 
-- June - 2023 [Hardware Hacking to Bypass BIOS Passwords](https://cybercx.co.nz/bypassing-bios-password/) - [Demo of Bypassing a BIOS Password](https://www.youtube.com/watch?v=ZUveltwwldo)
+- June - 2023 [Hardware Hacking to Bypass BIOS Passwords](https://cybercx.co.nz/bypassing-bios-password/) - :film_strip: [Demo of Bypassing a BIOS Password](https://www.youtube.com/watch?v=ZUveltwwldo)
 - May - 2023 [Azure SSRF Metadata](https://cybercx.co.nz/azure-ssrf-metadata/)
 - July - 2021 [_blank Burp Plugin](https://cptwin.lolnet.co.nz/post/2021-07-24-_blank-burp-plugin/)
 - July - 2021 [_blank Links](https://cptwin.lolnet.co.nz/post/2021-07-17-underscoreblanklinks/)
-- July - 2020 [Ask Me Anything | NZ Cyber Security Challenge 2020](https://www.youtube.com/watch?v=iuRjqiHmWe8)
+- July - 2020 :film_strip: [Ask Me Anything | NZ Cyber Security Challenge 2020](https://www.youtube.com/watch?v=iuRjqiHmWe8)
 - March - 2019 [Password Hashing Work Factor Recommendations in 2019](https://cptwin.lolnet.co.nz/post/2019-03-02-password-hashing-work-factor-recommendations-in-2019/)
+- February - 2017 [Development and Examination of In-browser GPU Accelerated Cryptography](https://hdl.handle.net/10292/10438)
+- December - 2016 [Accelerating NTRUEncrypt for in-browser cryptography utilising
+Accelerating NTRUEncrypt for in-browser cryptography utilising
+graphical processing units and WebGL](https://doi.org/10.4225/75/58a6a626b43ed)
 - Pulsar Search Summer Research Project December 2014 - February 2015 (https://summerpulsar.wordpress.com/)
-  - January - 2015 [PEASOUP Installation and Usage](https://summerpulsar.wordpress.com/2015/01/29/peasoup-installation-and-usage/) - [Video of PEASOUP Installation and Usage](https://www.youtube.com/watch?v=WATKK__BJ-Q)
-  - January - 2015 [Presto Installation and Usage](https://summerpulsar.wordpress.com/2015/01/29/presto-installation-and-usage/) - [Video of Presto Installation and Usage](https://www.youtube.com/watch?v=f5OJrU_gQJE)
+  - January - 2015 [PEASOUP Installation and Usage](https://summerpulsar.wordpress.com/2015/01/29/peasoup-installation-and-usage/) - :film_strip: [Video of PEASOUP Installation and Usage](https://www.youtube.com/watch?v=WATKK__BJ-Q)
+  - January - 2015 [Presto Installation and Usage](https://summerpulsar.wordpress.com/2015/01/29/presto-installation-and-usage/) - :film_strip: [Video of Presto Installation and Usage](https://www.youtube.com/watch?v=f5OJrU_gQJE)
 
 ---
 
